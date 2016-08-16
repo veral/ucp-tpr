@@ -8,6 +8,7 @@
  * El resultado debe mostrar el total neto y todos los descuentos.
  */
 
+// Definir una constante
 define("JUBILACION", 11);
 
 echo "Bienvenido a TPR-1! \n";
